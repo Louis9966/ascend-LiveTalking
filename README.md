@@ -248,22 +248,4 @@ python app.py --transport webrtc --model wav2lip --avatar_id wav2lip256_avatar1
 - musetalk 推荐 RTX 3080Ti 及以上
 - 昇腾 910B 当前已完成 wav2lip 适配，musetalk / ultralight 适配中
 
----
 
-## 7. 声明
-
-基于本项目开发并发布在B站、视频号、抖音等平台上的视频需带上 LiveTalking 水印和标识。
-
----
-
-如果本项目对你有帮助，帮忙点个 Star。也欢迎感兴趣的朋友一起来完善昇腾适配。
-
-| 社区 | 链接 |
-|------|------|
-| 微信 | wxwubug (加群请备注) |
-| Telegram | <https://t.me/livetalking> |
-| Discord | <https://discord.gg/n5jSPCT3Uf> |
-| Email | lipku@foxmail.com |
-| 微信公众号 | 数字人技术 |
-
-<img src="./assets/qrcode-wechat.jpg" align="middle" />
