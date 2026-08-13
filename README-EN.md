@@ -240,17 +240,3 @@ Available images:
 
 Videos developed based on this project and published on platforms such as Bilibili, WeChat Channels, and Douyin must include the LiveTalking watermark and logo.
 
----
-
-If this project is helpful to you, please give it a Star. Contributors interested in improving this project are also welcome.
-
-| Community | Link |
-|-----------|------|
-| Knowledge Planet | <https://t.zsxq.com/7NMyO> |
-| WeChat | wxwubug (mention for group invite) |
-| Telegram | <https://t.me/livetalking> |
-| Discord | <https://discord.gg/n5jSPCT3Uf> |
-| Email | lipku@foxmail.com |
-| WeChat Official | 数字人技术 |
-
-<img src="./assets/qrcode-wechat.jpg" align="middle" />
